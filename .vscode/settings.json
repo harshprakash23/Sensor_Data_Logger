@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "thermoresistive.h": "c",
+        "thermo_acoustic.h": "c",
+        "thermoelectric.h": "c",
+        "thermo_optical.h": "c"
+    }
+}
